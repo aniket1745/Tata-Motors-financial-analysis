@@ -4,88 +4,88 @@ Data set : https://www.screener.in/company/TATAMOTORS/consolidated/
 ## HistoricalsIFS
 Made Income statement,Balance Sheet, Cash Flow Statements.
 
-Income Of statement
-Sales
-Sales Growth
+Income Of statement:
+Sales,
+Sales Growth,
 
-COGS
-COGS % Sales
+COGS,
+COGS % Sales,
 
-Gross Profit
-Gross Margin
+Gross Profit,
+Gross Margin,
 
-Selling &Genaral Expensess
-S&G Expenses
+Selling &Genaral Expensess,
+S&G Expenses,
 
-EBITDA
-EBITDA Margins
+EBITDA,
+EBITDA Margins,
 
-Interest
-Interest % Sales
+Interest,
+Interest % Sales,
 
-Depreciation
-Deppreciation % Sales
+Depreciation,
+Deppreciation % Sales,
 
-Earning Before Tax
-EBT % of Sales
+Earning Before Tax,
+EBT % of Sales,
 
-Tax
-Effective Tax Rate
+Tax,
+Effective Tax Rate,
 
-Net Profit
-Net Margins
+Net Profit,
+Net Margins,
 
-No of Equity Shares
+No of Equity Shares,
 
-EPS
-EPS Grwoth %
+EPS,
+EPS Grwoth %,
 
-Dividend per Share
-Dividend payout ratio
+Dividend per Share,
+Dividend payout ratio,
 
-Retained Earnings
+Retained Earnings,
 
 
 
 ## Ratio Analysis
 
-SalesGrowth
-EBITDA Growth
-EBIT Growth
-Net Profit Growth
-Dividend Growth
+SalesGrowth,
+EBITDA Growth,
+EBIT Growth,
+Net Profit Growth,
+Dividend Growth,
 
-Gross Margin
-EBITDA Margin
-EBIT Margin
-EBT Margin
-Net Profit Margin
+Gross Margin,
+EBITDA Margin,
+EBIT Margin,
+EBT Margin,
+Net Profit Margin,
 
-SalesExpenses%Sales
-Depreciation%Sales
-OperatingIncome%Sales
+SalesExpenses%Sales,
+Depreciation%Sales,
+OperatingIncome%Sales,
 
-Return on Capital Employed
-Retained Earnings%
-Return on Equity%
-Self Sustained Growth Rate
-Interest Coverage Ratio
+Return on Capital Employed,
+Retained Earnings%,
+Return on Equity%,
+Self Sustained Growth Rate,
+Interest Coverage Ratio,
 
-Debtor Turnover Ratio
-Creditor Turnover Ratio
-Inventory Turnover
-Fixed Asset Turnover
-Capital Turnover Ratio
+Debtor Turnover Ratio,
+Creditor Turnover Ratio,
+Inventory Turnover,
+Fixed Asset Turnover,
+Capital Turnover Ratio,
 
 
-Debtor Days
-Payable Days
-Inventory Days
-Cash Conversion Cycle
+Debtor Days,
+Payable Days,
+Inventory Days,
+Cash Conversion Cycle,
 
-CFO/Sales
-CFO/Total Assets
-CFO/Total Debt
+CFO/Sales,
+CFO/Total Assets,
+CFO/Total Debt,
 
 ## Forecasting
 TATA MOTORS LTD - Sales Forecasting			
